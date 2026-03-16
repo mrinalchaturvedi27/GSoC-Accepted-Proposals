@@ -2,6 +2,14 @@
 
 This repository serves as an archive of [GSoC - Google Summer of Code](https://summerofcode.withgoogle.com/) accepted proposals of IIT (BHU), Varanasi students. GSoC is an *F*ree and *O*pen *S*ource programme and COPS IIT (BHU) highly encourages the students to contribute to Open Source.
 
+### Mentor's Best Proposal Picks (Shortlist)
+
+Mentor-curated shortlist to start with, chosen to represent a range of org types and project scopes (includes a PSF proposal).
+
+- [Madhav Mittal - Python Software Foundation (2022)](2022/Python%20Software%20Foundation%20-%202022%20-%20Madhav%20Mittal.pdf)
+- [Shivansh Saini - VideoLAN (2019)](2019/VideoLAN%20-%202019%20-%20Shivansh%20Saini.pdf)
+- [Shashank Mittal - Kubeflow (2024)](2024/Kubeflow%20-%202024%20-%20Shashank%20Mittal.pdf)
+
 ### [2019](2019)
 
 - [Shivansh Saini - VideoLAN](2019/VideoLAN%20-%202019%20-%20Shivansh%20Saini.pdf)
